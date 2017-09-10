@@ -4437,7 +4437,7 @@ body {
 
 .canvasContainer {
   position: fixed;
-  top: 30%;
+  top: 20%;
   z-index: 0;
 }
 
@@ -4845,7 +4845,7 @@ body {
 
 .musicWithCanvas .mainContainer2 {
   position: fixed;
-  bottom: 8%;
+  bottom: 12%;
 }
 
 .musicWithCanvas .containerTitleWord {
